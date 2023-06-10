@@ -1,0 +1,2 @@
+# smith
+Minecraft server management
